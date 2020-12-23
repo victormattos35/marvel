@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Marvel" parent="Theme.MaterialComponents.Light.Bridge">
+        <!-- Primary brand color. -->
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
